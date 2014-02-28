@@ -1,9 +1,7 @@
-# Readme.md
+# Convert MP3 to Wav #
 
+this console app is using the naudio nuget package
 
-To learn more about the markdown syntax, refer to these links:
-
- - [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
- - [Markdown Basics](http://daringfireball.net/projects/markdown/basics)
- - [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) 
- - [markdown at wikipedia](https://secure.wikimedia.org/wikipedia/en/wiki/Markdown)
+- [naudio on codeplex](http://naudio.codeplex.com/)
+- [naudio on nuget](https://www.nuget.org/packages/NAudio/)
+- [naudio's author blog](http://mark-dot-net.blogspot.nl/)
